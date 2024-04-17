@@ -10,3 +10,7 @@
 - **[ltrace - library calls](https://man7.org/linux/man-pages/man1/ltrace.1.html)**
 - **[Binwalk](https://github.com/ReFirmLabs/binwalk)**
 - **[angr](https://angr.io/)**
+
+# Links
+
+- **[Reverse tips](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)**
